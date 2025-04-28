@@ -6,6 +6,12 @@ Algoritma, park alanının boyutunu ve aracın boyutunu dikkate alarak, aracın 
 Algoritmanın temel matematiksel yapısı, cosinus teoremi üzerine kuruludur. Bu teori, araç ve park alanı arasındaki açıların hesaplanmasında kullanılarak, aracın park alanına girişine uygun bir yol haritası çıkarılmasına olanak tanır. Ayrıca, matematiksel fonksiyonlardan faydalanarak algoritmanın dinamik bir yapıya kavuşturulması sağlanmıştır. Böylece algoritma, çevredeki değişken koşullara anında adapte olabilen ve sürekli olarak iyileştirilen bir yapıya sahiptir.
 
 KODUN ÇALIŞTIRILMASI:
-ilk olarak yolo_topic.py  dosyasını çalıştırınız . (ortamdaki tabelaları tespit edecek olan kod)
-dah sonrasında derinlik 
+ADIM1 : yolo_topic.py  dosyasını çalıştırınız . (ortamdaki tabelaları tespit edecek olan kod)
+ADIM2 : derinlik_alma.py yi çalıştırınız (bu kod ise stereo kamerası ile durak ile aracın arasındaki mesafeyi hesaplamaya yarar).
+
+ADIM3 : dinamik.py yi çalıştırın bu kod ise COSİNUS teoreminin olduğu koddur . Aracın y ekseninde  tabelaya olan uzaklığını hesaplar. 
+
+ADIM4 : work33.py yi çalıştırarak aracı hareket ettirebirisiniz ve arac park alanına girecektir.
+
+
 
